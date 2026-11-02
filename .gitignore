@@ -1,0 +1,5 @@
+# secrets and generated state - never commit
+.env
+.vagrant/
+vmnetnat.conf.bak-*
+*.log
