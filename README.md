@@ -53,4 +53,4 @@ Local Ollama from n8n (reverse SSH tunnel, **untested end to end**): use the
 
 ## License
 
-Scripts: add a license of your choice before publishing. n8n itself is under its own Sustainable Use License.
+The scripts in this repository are under the [MIT License](LICENSE). n8n itself is not covered by it: it has its own Sustainable Use License.
